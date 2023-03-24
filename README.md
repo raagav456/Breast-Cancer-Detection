@@ -10,7 +10,7 @@ Among many cancers, breast cancer is the second most common cause of death in wo
 ### Logistic Regression
 
 <p align="center">
-  <img  src="https://user-images.githubusercontent.com/78891081/227564652-cb467568-7f5b-4238-9d5e-5bdc30402600.png" width = "600" height = "300" >
+  <img  src="https://user-images.githubusercontent.com/78891081/227564652-cb467568-7f5b-4238-9d5e-5bdc30402600.png" width = "840" height = "320" >
 </p>
 
 <li>Logistic regression is one of the most popular Machine Learning algorithms, which comes under the Supervised Learning technique. It is used for predicting the categorical dependent variable using a given set of independent variables.
