@@ -7,7 +7,7 @@
 
 # Overview
 
-Among many cancers, breast cancer is the second most common cause of death in women. Early detection and early treatment reduce breast cancer mortality. MachineLearning plays an important role in breast cancer detection because it can detect it is benign or not using Logistic Regression (Supervised Learning Algorithm).
+Among many cancers, breast cancer is the second most common cause of death in women. Early detection and early treatment reduce breast cancer mortality. MachineLearning plays an important role in breast cancer detection because it can detect it is benign or maligant using Logistic Regression (Supervised Learning Algorithm).
   
 ### Logistic Regression
 
